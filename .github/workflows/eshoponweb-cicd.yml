@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-VAIBHAV
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/4625c659-ad75-40d0-87dc-132223373a64/resourceGroups/rg-az400-eshoponweb-VAIBHAV
+  SUBSCRIPTION-ID: 4625c659-ad75-40d0-87dc-132223373a64
   WEBAPP-NAME: az400-webapp-VAIBHAV
 
 
